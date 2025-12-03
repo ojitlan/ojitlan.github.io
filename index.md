@@ -1,10 +1,10 @@
-This is my home page! My name is Emerick Juarez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical Engineering.
+# Emerick Juarez's Portfolio
 
-## Computer Science Projects
+This is my home page! My name is Emerick Juarez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Electrical Engineering.
 
 My GitHub page is http://github.com/ojitlan.
 
-### CPSC 120
+## Favorite Lab Projects
 
 * Lab 7
 
